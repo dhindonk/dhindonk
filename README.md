@@ -6,7 +6,7 @@ I'm a Junior Fullstack Developer and Flutter Developer in Bogor, West Java, Indo
 
 >🧑‍💻 I want to collaborate on open source projects
 
->💬 Ask me about Flutter and Dart.
+>💬 Ask me about Dart, Flutter, Laravel.
 
 >⚡ Fun fact: grateful is magic 🐰
 
