@@ -29,8 +29,9 @@
 ###
 
 <h1 align="center">Hi 👋! My name is Fahdin</h1>
-https://github-profile-trophy.vercel.app/?username=dhindonk&no-frame=true
-###
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dhindonk&no-frame=true&margin-w=10&margin-h=10" />
+</div>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
