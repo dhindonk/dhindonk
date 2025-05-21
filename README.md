@@ -29,7 +29,7 @@
 ###
 
 <h1 align="center">Hi 👋! My name is Fahdin</h1>
-<div>https://github-profile-trophy.vercel.app/?username=dhindonk</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhindonk)]
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
